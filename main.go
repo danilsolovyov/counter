@@ -1,12 +1,11 @@
 package main
 
 import (
-	"context"
-	"fmt"
-	//"log"
-	"net/http"
-	"os"
-	"time"
+    "context"
+    "fmt"
+    "net/http"
+    "os"
+    "time"
 )
 
 // Chronometer - Меняет значение counter.count
